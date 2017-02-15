@@ -16,13 +16,19 @@
       <label> First Name: <input type = "text" name = "firstName" 
               size = "35" placeholder = "First Name" /> <br><br> </label>
       <label> Last Name: <input type = "text" name = "lastName" 
-              size = "35" placeholder = "Last Name /> <br> <br></label>
+              size = "35" placeholder = "Last Name" /> <br> <br></label>
       <label> E-mail Address: <input type = "email" id = "eMail" name ="eMail" 
               size = "35" placeholder = "Valid E-mail Address" /> <br> <br> </label>
       <p/>
       <!--Drop down-->
       <p>
-      
+      Please tell us a little about your inquiry.<br><br>
+      With size = 2
+        <select name = "inquiry" placeholder = "Make Selection">
+        <option> Order Status </option>
+        <option> New Order </option>
+        <option> Cancel Order </option>
+        <option> Other </option>
       </p>
       
   </body>
