@@ -23,12 +23,15 @@
       <!--Drop down-->
       <p>
       Please tell us a little about your inquiry.<br><br>
-      With size = 2
-        <select name = "inquiry" placeholder = "Make Selection">
+      This inquiry is concerning:
+        <select name = "inquiry">
+        <option> placeholder = Select </option>
         <option> Order Status </option>
         <option> New Order </option>
         <option> Cancel Order </option>
         <option> Other </option>
+        </select>
       </p>
-      
+      </form>
   </body>
+</html>
