@@ -14,3 +14,16 @@ h1
    font-weight: bold;
 }
 
+h2
+{
+   color: #4C5454;
+   font-style: italic;
+   font: Garamond;
+}
+
+h3
+{
+   color: #4C5454;
+   font-style: normal;
+   font-family: Arial, serif;
+}
