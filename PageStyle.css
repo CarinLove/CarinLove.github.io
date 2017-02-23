@@ -9,7 +9,8 @@ body
 h1
 {
    color: #984447;
-   font-family: 'cottonwood';
-   font-size: 2em; font-weight: bold;
+   font: italic bold 12px/30px Cottonwood, serif;
+   font-size: 2em; 
+   font-weight: bold;
 }
 
