@@ -4,9 +4,15 @@
 body 
 {
    background-color: #DBF9F4;
-   max-width: 960px;
 }
 
+#page
+{
+   width: 960px;
+   margin: auto;
+   border: 10px #938581;
+   
+}
 h1
 {
    color: #984447;
@@ -18,7 +24,7 @@ h1
 
 .quote
 {
-   color: #984447;
+   color: #683257;
    font-style: italic;
    font: Garamond;
 }
