@@ -4,11 +4,8 @@
 body 
 {
    background-color: #DBF9F4;
-   margin-top: 100px;
-   margin-bottom: 100px;
-   margin-left: 80px;
-   margin-right: 150px
-   padding: 15px;
+   max-width: 960px;
+   margin: auto;
 }
 
 h1
