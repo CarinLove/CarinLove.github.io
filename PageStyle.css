@@ -34,12 +34,12 @@ h2
    font-weight: bold;
    text-align: center;
 }
-
+/*This is the heading*/
 h3
 {
    color: #4C5454;
    font-style: normal;
-   font-family: 'Architects Daughter';font-size: 22px;
+   font-family: 'Architects Daughter';font-size: 45px;
 }
 /*unvisited link*/
 a-link
