@@ -16,7 +16,7 @@ body
 h1
 {
    color: #984447;
-   font-family: 'Architects Daughter';font-size: 22px;
+   font-family: 'Architects Daughter';font-size: 32px;
    font-weight: bold;
    text-align: center;
 }
@@ -34,12 +34,12 @@ h2
    font-weight: bold;
    text-align: center;
 }
-/*This is the heading*/
+/*This is the body*/
 h3
 {
    color: #4C5454;
    font-style: normal;
-   font-family: 'Architects Daughter';font-size: 50%;
+   font-family: 'Architects Daughter';font-size: 22px;
 }
 /*unvisited link*/
 a-link
