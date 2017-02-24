@@ -35,3 +35,21 @@ h3
    font-style: normal;
    font-family: Arial, serif;
 }
+/*unvisited link*/
+a-link
+{
+   text-decoration: underline;
+   color: blue;
+}
+/*visited link*/
+{
+   text-decoration: none;
+   color: #73503C;
+}
+/*mouse over link*/
+a-hover
+{
+   text-decoration: bold;
+   text-decoration: underline;
+   color: blue;
+}
