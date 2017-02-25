@@ -8,9 +8,9 @@ body
 
 #page
 {
-   width: 65%;
+   width: 960px;
    margin: auto;
-   border: 10px #938581;
+   border: solid 10px #938581;
    
 }
 h1
