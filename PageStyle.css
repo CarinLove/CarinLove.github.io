@@ -9,8 +9,7 @@ body
 #page
 {
    width: 65%;
-   margin-left: auto;
-   margin-right: auto:
+   margin: auto;
    border: 10px #938581;
    
 }
@@ -64,8 +63,10 @@ a:hover
 /*Setting all table properties*/
 th, td
 {
-   border: thin #A68572;
+   border: solid #A68572;
    border-style: groove;
+   margin-left: auto;
+   margin-right: auto;
    
 }
 
