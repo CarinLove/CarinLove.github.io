@@ -65,7 +65,7 @@ a:hover
 /*Setting all table properties*/
 table
 {
-margin: auto;
+margin: center;
 }
 th, td
 {
@@ -76,7 +76,8 @@ th, td
 }
 img
 {  
-   size: auto;
+   size: 35%;
+   padding: 2px;
 }
 td
 {
