@@ -63,10 +63,6 @@ a:hover
    color: blue;
 }
 /*Setting all table properties*/
-table
-{
-margin: center;
-}
 th, td
 {
    border: solid #A68572;
@@ -78,6 +74,7 @@ img
 {  
    size: 35%;
    padding: 2px;
+   text-align: center;
 }
 td
 {
