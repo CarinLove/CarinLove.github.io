@@ -67,10 +67,11 @@ th, td
 {
    border: solid #A68572;
    border-style: groove;
-   margin-left: auto;
-   margin-right: auto;
+   padding: 5%;
+}
+td
+{
    text-align: center;
-   width: auto;
 }
 a
 {
