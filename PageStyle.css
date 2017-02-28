@@ -67,7 +67,9 @@ th, td
 {
    border: solid #A68572;
    border-style: groove;
-   padding: 5%;
+   margin-left: auto;
+   margin-right: auto;
+   
 }
 td
 {
