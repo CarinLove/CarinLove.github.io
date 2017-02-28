@@ -39,6 +39,7 @@ h2
 /*This is the body*/
 h3
 {
+   text-align: center;
    color: #4C5454;
    font-style: normal;
    font-family: 'Architects Daughter';font-size: 22px;
@@ -69,6 +70,10 @@ th, td
    border-style: groove;
    margin-left: auto;
    margin-right: auto;
+}
+ul
+{
+   text-align: center;
 }
 img
 {  
