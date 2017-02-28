@@ -63,6 +63,10 @@ a:hover
    color: blue;
 }
 /*Setting all table properties*/
+table
+{
+table-layout: fixed;
+}
 th, td
 {
    border: solid #A68572;
