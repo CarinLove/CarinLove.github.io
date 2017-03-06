@@ -44,7 +44,7 @@ h3
 /*unvisited link*/
 a:link
 {
-   text-decoration: underline;
+   text-decoration: none;
    color: blue;
 }
 /*visited link*/
@@ -57,8 +57,7 @@ a:visited
 a:hover
 {
    text-decoration: bold;
-   text-decoration: underline;
-   color: blue;
+   background-color: blue;
 }
 /*Setting all table properties*/
 th, td
@@ -83,12 +82,21 @@ td
    margin: 0;
    padding: 0;
    background-color: #f1f1f1;
-   width: 35%;
+   width: 15%;
+   position: fixed;
+   height: 100%;
+   overflow: auto;
+   border: solid;
 }
 li a 
 {
    display: block;
-   text-align: left;
-   padding: 3px;
+   text-align: center;
+   padding: 6px;
    text-decoration: bold;
+   border-bottom: solid;
+}
+li last-child
+{
+   border-bottom: none;
 }
