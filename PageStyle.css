@@ -10,13 +10,11 @@ body
 {
    width: auto;
    margin: auto;
-   border: solid 10px #938581;
    padding: auto;
    
 }
 #content
 {
-   margin: auto;
    float: right;
    z-index: 1;
 }
