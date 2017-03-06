@@ -89,6 +89,6 @@ li a
    display: block;
    text-align: left;
    padding: 3px;
-   width: auto;
+   width: 50%;
    text-decoration: bold;
 }
