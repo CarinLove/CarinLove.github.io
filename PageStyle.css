@@ -17,6 +17,7 @@ body
 {
    margin-left: 25%;
    float: right;
+   padding: 0;
    z-index: 1;
 }
 h1
