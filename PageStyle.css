@@ -11,7 +11,7 @@ body
    width: auto;
    margin: auto;
    border: solid 10px #938581;
-   padding-left: 20%;
+   padding: auto;
    
 }
 h1
@@ -44,8 +44,9 @@ h3
 /*unvisited link*/
 a:link
 {
-   text-decoration: none;
-   color: blue;
+   font-style: bold;
+   font-family: 'Architects Daughter', Arial, sans-serif;
+   color: #984447;
 }
 /*visited link*/
 a:visited
@@ -56,8 +57,9 @@ a:visited
 /*mouse over link*/
 a:hover
 {
-   text-decoration: bold;
-   background-color: blue;
+   font-style: bold italic;
+   background-color: #4C5454;
+   color: white;
 }
 /*Setting all table properties*/
 th, td
@@ -81,20 +83,21 @@ td
    list-style-type: none;
    margin: 0;
    padding: 0;
-   background-color: #f1f1f1;
+   background-color: #D9D7DD;
    width: 15%;
    position: fixed;
    height: 100%;
    overflow: auto;
-   border: solid;
+   border: thin;
 }
 li a 
 {
    display: block;
    text-align: center;
    padding: 6px;
-   text-decoration: bold;
-   border-bottom: solid;
+   font-style: bold;
+   font-family: 'Architects Daughter', Arial, sans-serif;
+   border-bottom: thin;
 }
 li last-child
 {
