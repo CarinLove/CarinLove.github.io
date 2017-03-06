@@ -94,7 +94,7 @@ td
    padding: 0;
    background-color: #D9D7DD;
    width: 10%;
-   position: fixed;
+   position: absolute;
    height: 100%;
    overflow: auto;
    border: thin;
@@ -106,7 +106,7 @@ li a
    text-align: center;
    padding: 6px;
    font-style: bold;
-   font-size: +1;
+   font-size: larger;
    font-family: 'Architects Daughter', Arial, sans-serif;
    border-bottom: thin;
 }
