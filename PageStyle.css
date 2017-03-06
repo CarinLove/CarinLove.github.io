@@ -16,7 +16,7 @@ body
 }
 #content
 {
-   position: absolute;
+   position: relative;
    z-index: 1;
 }
 h1
