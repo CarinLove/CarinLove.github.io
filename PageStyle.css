@@ -15,6 +15,7 @@ body
 }
 #content
 {
+   margin-left: 25%;
    float: right;
    z-index: 1;
 }
@@ -25,7 +26,10 @@ h1
    font-weight: bold;
    text-decoration: underline;
 }
-
+hr
+{
+margin: auto;
+}
 .quote
 {
    color: #683257;
