@@ -16,7 +16,7 @@ body
 }
 #content
 {
-   margin-left: 25%;
+   padding: 50px;
    z-index: 1;
 }
 h1
