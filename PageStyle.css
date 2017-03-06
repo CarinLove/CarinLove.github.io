@@ -16,7 +16,8 @@ body
 }
 #content
 {
-   padding: 50px;
+   margin: auto;
+   float: right;
    z-index: 1;
 }
 h1
