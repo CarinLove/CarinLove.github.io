@@ -8,7 +8,7 @@ body
 
 #page
 {
-   width: 960px;
+   width: auto;
    margin: auto;
    border: solid 10px #938581;
    padding: 10px;
@@ -94,8 +94,10 @@ a
    list-style-type: none;
    margin: 0;
    padding: 0;
+   background-color: #f1f1f1;
 }
 li a 
 {
    display: block;
+   text-align: left;
 }
