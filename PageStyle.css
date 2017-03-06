@@ -16,7 +16,8 @@ body
 }
 #content
 {
-   padding-left: 20%;
+   position: absolute;
+   z-index: 1;
 }
 h1
 {
@@ -93,6 +94,7 @@ td
    height: 100%;
    overflow: auto;
    border: thin;
+   z-index: 0;
 }
 li a 
 {
