@@ -19,7 +19,6 @@ h1
    color: #984447;
    font-family: 'Sansita', sans-serif;
    font-weight: bold;
-   text-align: center;
    text-decoration: underline;
 }
 
@@ -27,19 +26,17 @@ h1
 {
    color: #683257;
    font-style: italic;
-   font-family: 'Handlee', arial, cursive;
+   font-family: Handlee, arial, cursive;
 }
 h2
 {
    color: #984447;
    font-family: 'Sansita', sans-serif;
    font-weight: bold;
-   text-align: center;
 }
 /*This is the body*/
 h3
 {
-   text-align: center;
    color: #4C5454;
    font-style: normal;
    font-family: 'Architects Daughter';font-size: 22px;
@@ -71,23 +68,14 @@ th, td
    margin-left: auto;
    margin-right: auto;
 }
-ul
-{
-   text-align: center;
-}
 img
 {  
    size: 35%;
    padding: 2px;
-   text-align: center;
 }
 td
 {
    padding: 1px;
-}
-a
-{
-   text-align: center;
 }
 #links
 {
