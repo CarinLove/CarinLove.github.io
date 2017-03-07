@@ -13,8 +13,14 @@ body
    padding-left: 15%;
    font-family: 'Architects Daughter', Arial, sans-serif;
    font-size: large;
-   
-   
+}  
+.logo
+{
+   padding-bottom: 15%;
+   font-family: 'Architects Daughter', Arial, sans-serif;
+   font-variant: small-caps;
+   font-size: large;
+   border: 1px solid #4C5454;
 }
 #content
 {
