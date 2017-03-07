@@ -16,16 +16,16 @@ body
 }  
 .logo
 {
-   padding-bottom: 25%;
+   padding-bottom: 20%;
    font-family: 'Architects Daughter', Arial, sans-serif;
    font-variant: small-caps;
-   font-size: 1.2em;
-   border: 1px solid #4C5454;
+   font-size: 3.4em;
+   font-weight: bold;
    
 }
 #content
 {
-   margin-left: 15%;
+   margin-left: 10%;
    float: left;
    padding: 0;
    z-index: 1;
