@@ -16,11 +16,12 @@ body
 }  
 .logo
 {
-   padding-bottom: 15%;
+   padding-bottom: 25%;
    font-family: 'Architects Daughter', Arial, sans-serif;
    font-variant: small-caps;
-   font-size: large;
+   font-size: 1.2em;
    border: 1px solid #4C5454;
+   
 }
 #content
 {
@@ -28,6 +29,7 @@ body
    float: left;
    padding: 0;
    z-index: 1;
+   background-color: #A3C9CC;
 }
 h1
 {
