@@ -16,7 +16,7 @@ body
 }  
 .logo
 {
-   padding-bottom: 5%;
+   padding-bottom: 2%;
    font-family: 'Architects Daughter', Arial, sans-serif;
    font-variant: small-caps;
    font-size: 4em;
@@ -32,7 +32,7 @@ body
    width: 100%;
    z-index: 1;
    background-color: #A3C9CC;
-   height: 150%;
+   height: 100%;
    z-index: 2;
 }
 h1
