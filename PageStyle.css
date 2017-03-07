@@ -12,7 +12,8 @@ body
    margin: auto;
    padding-left: 15%;
    font-family: 'Architects Daughter', Arial, sans-serif;
-   font-size: larger;
+   font-size: large;
+   
    
 }
 #content
@@ -55,7 +56,7 @@ h3
 /*unvisited link*/
 a:link
 {
-   font-style: bold;
+   font-weight: bold;
    font-family: 'Architects Daughter', Arial, sans-serif;
    color: #984447;
 }
@@ -68,7 +69,8 @@ a:visited
 /*mouse over link*/
 a:hover
 {
-   font-style: bold italic;
+   font-style: italic;
+   font-weight: bold;
    background-color: #4C5454;
    color: white;
 }
