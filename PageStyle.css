@@ -29,7 +29,8 @@ body
    margin-left: auto;
    float: left;
    padding-right: 2%;
-   padding-left: 2%;
+   padding-left: 20%;
+   border: none;
    width: 100%;
    z-index: 1;
    background-color: #A3C9CC;
