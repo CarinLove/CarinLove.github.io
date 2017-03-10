@@ -127,6 +127,7 @@ li a
    font-size: larger;
    font-family: 'Architects Daughter', Arial, sans-serif;
    border-bottom: thin;
+   height:100%
 }
 li last-child
 {
