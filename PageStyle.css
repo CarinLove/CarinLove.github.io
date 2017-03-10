@@ -9,8 +9,8 @@ body
 #page
 {
    width: auto;
-   margin-left: 10%;
-   padding-left: 15%;
+   margin-left: auto;
+   padding-left: 5%;
    font-family: 'Architects Daughter', Arial, sans-serif;
    font-size: large;
 }  
