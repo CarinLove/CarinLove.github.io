@@ -29,7 +29,7 @@ body
    margin-left: auto;
    float: left;
    padding-right: 2%;
-   padding-left: 15%;
+   padding-left: 2%;
    width: 100%;
    z-index: 1;
    background-color: #A3C9CC;
@@ -108,12 +108,12 @@ td
 #links
 {
    list-style-type: none;
-   margin: auto;
+   margin: 0;
    padding: 0;
    background-color: #D9D7DD;
    width: 10%;
    position: absolute;
-   height: auto;
+   height: 100%;
    overflow: auto;
    border: thin;
    z-index: 0;
