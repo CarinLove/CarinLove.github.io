@@ -5,5 +5,4 @@ var today = new Date();
 
 //Display the date
 
-document.write(
-    "Today is: " + dateString);
+document.getElementById("Today").innerHTML = today;
