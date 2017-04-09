@@ -119,6 +119,20 @@ td
    border: thin;
    z-index: 0;
 }
+#products
+{
+  list-style-type: none;
+   margin: 0;
+   padding: 0;
+   background-color: #D9D7DD;
+   width: 10%;
+   position: absolute;
+   height: 100%;
+   overflow: auto;
+   border: thin;
+   z-index: 0;
+   display: none;
+}
 li a 
 {
    display: block;
