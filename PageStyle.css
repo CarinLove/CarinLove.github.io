@@ -28,7 +28,7 @@ body
 {
    float: left;
    padding-right: 25px;
-   padding-left: 185px;
+   padding-left: 215px;
    border: none;
    width: 100%;
    z-index: 1;
@@ -111,7 +111,7 @@ td
    margin: 0;
    padding: 0;
    background-color: #D9D7DD;
-   width: 10%;
+   width: 25px;
    position: absolute;
    height: 100%;
    overflow: auto;
