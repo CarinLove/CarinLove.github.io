@@ -5,8 +5,8 @@ var today = new Date();
 
 //Display the date
 
-    var d = new Date();
-    document.getElementById("today").innerHTML = d.toDateString();
+    //var d = new Date();
+    //document.getElementById("today").innerHTML = d.toDateString();
 
 //Data Validation
 function validateform() {
