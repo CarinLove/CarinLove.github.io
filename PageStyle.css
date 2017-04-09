@@ -27,11 +27,11 @@ body
 #content
 {
    float: left;
+   margin-left: 140px
    padding-right: 25px;
-   padding-left: 225px;
+   padding-left: 25px;
    border: none;
    width: 100%;
-   z-index: 1;
    background-color: #A3C9CC;
    height: 100%;
    z-index: 2;
@@ -109,9 +109,10 @@ td
 {
    list-style-type: none;
    margin: 0;
-   padding: 0;
+   padding-left: 10px;
+   padding-right: 10px;
    background-color: #D9D7DD;
-   width: 25px;
+   width: auto;
    position: absolute;
    height: 108%;
    overflow: auto;
