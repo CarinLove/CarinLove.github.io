@@ -35,7 +35,7 @@ function validateform() {
 
 $( document ).ready(function() {
     $("#productsLinks").click(function(){
-        $("#products").show();
+        $("#products").slideToggle();
     });
     
     
