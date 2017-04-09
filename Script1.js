@@ -34,7 +34,7 @@ function validateform() {
 
 
 $( document ).ready(function() {
-    $("#productsLinks").on("click", function(){
+    $("#productsLinks").click(function(){
         $("#products").show();
     });
     
