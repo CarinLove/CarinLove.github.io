@@ -27,7 +27,7 @@ body
 #content
 {
    float: left;
-   margin-left: 140px;
+   margin-left: 180px;
    padding-right: 25px;
    padding-left: 25px;
    border: none;
@@ -112,7 +112,7 @@ td
    padding-left: 10px;
    padding-right: 10px;
    background-color: #D9D7DD;
-   width: auto;
+   width: 200px;
    position: absolute;
    height: 108%;
    overflow: auto;
