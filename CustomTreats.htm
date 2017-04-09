@@ -9,6 +9,10 @@
   <link rel = "stylesheet" type = "text/css"
         href = "PageStyle.css" />
   <meta name="description" content="Custom Treats">
+  <script>
+    var d = new Date();
+    document.getElementById("today").innerHTML = d.toDateString();
+  </script>
 </head>
 <body>
 <div id="page">
@@ -55,6 +59,7 @@
     <td><img src = "CookiePizza.jpg" alt = "Picture of cookie pizza."/></td>
   </tr>
   </table>
+    <p> Today is: <p id="today"></p>
   </div>
   </div>
 </body>
