@@ -31,3 +31,12 @@ function validateform() {
         return false;
     }
 }
+
+
+$( document ).ready(function() {
+    $("#productsLinks").on("click", function(){
+        $("#products").show();
+    });
+    
+    
+});
