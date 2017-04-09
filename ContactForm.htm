@@ -65,6 +65,11 @@
       <input type = "reset" value = "Clear Form" />
       </p>
       </form>
+     <p>Today is:</p><p id="today"></p>
+     <script>
+    var d = new Date();
+    document.getElementById("today").innerHTML = d.toDateString();
+  </script>
     </div>
     </div>
     </body>
