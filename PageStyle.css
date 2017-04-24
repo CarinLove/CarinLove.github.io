@@ -5,6 +5,10 @@ body
 {
    background-color: #DBF9F4;
 }
+#wrap{
+   width: 900px;
+   margin: 0 auto;
+}
 
 #page
 {
