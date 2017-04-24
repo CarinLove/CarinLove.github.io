@@ -160,9 +160,9 @@ li last-child
 
 .slideshow-container {
   max-width: 500px;
-  /*position: relative;*/
+  position: relative;
   margin: auto;
-   float: left;
+  
 }
 
 .mySlides {
