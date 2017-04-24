@@ -12,7 +12,7 @@ var slideIndex = 0;
     slideIndex++;
     if (slideIndex> slides.length) {slideIndex = 1} 
     slides[slideIndex-1].style.display = "block"; 
-    setTimeout(showSlides, 3000); 
+    setTimeout(showSlides, 4500); 
 }
 //To display the date on my pages
 
