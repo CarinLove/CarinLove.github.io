@@ -156,7 +156,7 @@ li last-child
    border-bottom: none;
 }
 /*Slideshow style*/
-* {box-sizing:border-box}
+/** {box-sizing:border-box}*/
 
 .slideshow-container {
   max-width: 500px;
