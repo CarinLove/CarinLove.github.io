@@ -8,6 +8,7 @@ body
 #wrap{
    width: 900px;
    margin: 0 auto;
+   text-align: center;
 }
 
 #page
