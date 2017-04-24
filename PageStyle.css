@@ -23,6 +23,7 @@ body
    font-size: 4em;
    font-weight: bold;
    color: #984447;
+   text-align: center;
 }
 #content
 {
@@ -155,7 +156,7 @@ li last-child
 
 .slideshow-container {
   max-width: 500px;
-  position: static;
+  position: relative;
   margin: auto;
 }
 
