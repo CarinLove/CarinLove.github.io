@@ -160,7 +160,7 @@ li last-child
 
 .slideshow-container {
   max-width: 500px;
-  position: relative;
+  position: absolute;
   margin: auto;
 }
 
