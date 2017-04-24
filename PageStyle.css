@@ -14,7 +14,6 @@ body
    padding-left: auto;
    font-family: 'Architects Daughter', Arial, sans-serif;
    font-size: large;
-   text-align: auto;
 }  
 .logo
 {
@@ -156,7 +155,7 @@ li last-child
 
 .slideshow-container {
   max-width: 500px;
-  position: relative;
+  position: static;
   margin: auto;
 }
 
