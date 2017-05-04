@@ -1,6 +1,5 @@
 #board {
   display: block;
   margin: auto;
-  -webkit-filter: drop-shadow (6px 6px 8px WhiteSmoke);
   filter: drop-shadow (6px 6px 8px WhiteSmoke);
 }
