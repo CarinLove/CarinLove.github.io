@@ -1,5 +1,6 @@
 #board {
   display: block;
   margin: auto;
-  filter: drop-shadow (6px 6px 8px WhiteSmoke);
+  filter: drop-shadow(6px 6px 8px WhiteSmoke);
+  filter: alpha(opacity=85);
 }
