@@ -12,8 +12,10 @@
 #duck{
   z-index: 1;
   position: relative;
+  margin: auto;
 }
 #dino{
-z-index: 1;
-  Position: absolute;
+  z-index: 1;
+  Position: relative;
+  margin: auto;
 }
