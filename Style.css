@@ -9,3 +9,9 @@
   margin: auto;
   filter: drop-shadow(6px 6px 8px DarkGrey);
 }
+#duck{
+  z-index: 1;
+}
+#dino{
+z-index: 1;
+}
