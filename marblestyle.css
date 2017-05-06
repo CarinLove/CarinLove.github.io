@@ -1,4 +1,11 @@
 body{
  background-image: url("grass.jpg");
  background color: #cccccc;
+ background-size: cover;
+ background-repeat: no-repeat;
+}
+h1{
+  color: white;
+  font-style: helvecta;
+  margin: auto;
 }
