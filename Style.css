@@ -7,7 +7,7 @@
 #board {
   display: block;
   margin: auto;
-  padding: 25px;
+  padding: auto;
   border: 10px red;
   filter: drop-shadow(6px 6px 8px DarkGrey);
   position: absolute;
