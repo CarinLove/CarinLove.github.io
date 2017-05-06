@@ -4,8 +4,11 @@ body{
  background-size: cover;
  background-repeat: no-repeat;
 }
+body{
+  font-family: 'Delius Unicase';font-size: 22px;
+}
 h1{
   color: white;
-  font-style: helvecta;
+  font-style: chalkboard;
   margin: auto;
 }
