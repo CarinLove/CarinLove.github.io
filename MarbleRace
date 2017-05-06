@@ -7,7 +7,7 @@
     <title>Great Marble Race</title>
     <style>
     {
-    background-image: src="grass.jpeg"
+    background-image: src="grass.jpg"
     }
     </style>
 </head>
