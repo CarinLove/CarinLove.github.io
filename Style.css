@@ -7,7 +7,8 @@
 #board {
   display: block;
   margin: auto;
-  padding: auto;
+  padding: 300px;
+  padding-top: 25px;
   border: 10px red;
   filter: drop-shadow(6px 6px 8px DarkGrey);
   position: absolute;
@@ -15,17 +16,19 @@
 }
 #duck{
   padding:25px;
-  margin: 300px;
+  margin: 600px;
   width: 50px;
   height: 50px;
   position: absolute;
   z-index: 1;
 }
 #dino{
-  Position: relative;
-  margin: auto;
-  width: 60px;
-  height: 60px;
+ padding:25px;
+  margin: 600px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  z-index: 1;
 }
 .buttons{
     background-color: red; /* Stop Button */
