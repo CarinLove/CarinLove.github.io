@@ -13,12 +13,13 @@ div.transbox{
  filter: alpha(opacity=60);
 }
 div.transbox p{
-  margin: 5%;
+  margin: auto;
   font-weight: bold;
-  color: #000000;
+  color: black;
+  padding: 10px;
 }
 h1{
-  color: white;
+  color: black;
   font-style: bold;
   font-family: 'Delius Unicase';
   font-size: 50px;
@@ -27,5 +28,5 @@ h1{
 h2{
   font-family: helvetica; 
   font-size: 25px;
-  color: white;
+  color: black;
 }
