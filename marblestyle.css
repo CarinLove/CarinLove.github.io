@@ -7,9 +7,10 @@ body{
 h1{
   color: white;
   font-style: bold;
-  font-family: 'Delius Unicase';font-size: 25px;
+  font-family: 'Delius Unicase';font-size: 50px;
   margin: auto;
 }
 h2{
-  font-family: helvetica; font-size: 15px;
+  font-family: helvetica; font-size: 25px;
+  color: white;
 }
