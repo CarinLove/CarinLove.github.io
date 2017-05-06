@@ -1,4 +1,4 @@
 body{
- background-image: src("grass.jpg");
+ background-image: url("grass.jpg");
  background color: #cccccc;
 }
