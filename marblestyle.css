@@ -5,6 +5,13 @@ body{
  background-repeat: no-repeat;
  color: white;
 }
+div.transbox{
+ margin: auto;
+ background-color: #cccccc;
+ border: 1px solid black;
+ opacity: 0.6;
+ filter: alpha(opacity=60);
+}
 h1{
   color: white;
   font-style: bold;
