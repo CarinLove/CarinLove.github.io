@@ -8,6 +8,7 @@
   display: block;
   margin: auto;
   filter: drop-shadow(6px 6px 8px DarkGrey);
+  position: absolute;
   z-index: -1;
 }
 #duck{
