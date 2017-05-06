@@ -18,7 +18,7 @@ div.transbox p{
   margin: auto;
   font-weight: bold;
   color: black;
-  padding: 10px;
+  padding: 50px;
 }
 h1{
   color: black;
@@ -26,11 +26,11 @@ h1{
   font-family: 'Delius Unicase';
   font-size: 50px;
   margin: auto;
-  padding: 10px;
+  padding: 50px;
 }
 h2{
   font-family: 'Comic Sans MS'; 
   font-size: 25px;
   color: black;
-  padding: 10px;
+  padding: 50px;
 }
