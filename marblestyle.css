@@ -37,3 +37,14 @@ h2{
   padding: 10px;
  
 }
+#marble1{
+  position: absolute;
+ left:20px;
+ top:300px;
+}
+
+#marble2{
+  position: absolute;
+ left:20px;
+ top:370px;
+}
