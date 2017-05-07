@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
@@ -8,7 +8,7 @@
     <link rel="stylesheet" type="text/css"
           href="marblestyle.css" />
     <link href='//fonts.googleapis.com/css?family=Delius Unicase' rel='stylesheet'>
-    <script src="marble.js"></script>
+    
 </head>
 <body>
 <div class="transbox">
@@ -17,12 +17,19 @@
     <h2>Which marble will make it to the circle first?<br>
     Click the button to race!</h2>
     <p>  
+   
 </div>
-<div id="marble1">
+    <div id="goResults">
+        <button onclick="start(this)" class="readybutton" id="btnStart">Click To Start</button>
+        <div id="winner">
+        </div>
+    </div>
+<div id="red">
     <img src="marble1.png"/>
 </div>
-<div id="marble2">
+<div id="yellow">
     <img src="marble2.png">
 </div>
+    <script src="marble.js"></script>
 </body>
 </html>

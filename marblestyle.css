@@ -1,7 +1,7 @@
 body{
  background-image: url("grass.jpg");
- background color: #cccccc;
- background-size: cover;
+ background-color: #cccccc;
+ background-size: 1300px;
  background-repeat: no-repeat;
  color: white;
 }
@@ -12,10 +12,10 @@ div.transbox{
  border: 1px solid black;
  opacity: 0.7;
  filter: alpha(opacity=70);
- margin-right: 650px;
+ width:750px;
+
 }
 div.transbox p{
-  margin: auto;
   font-weight: bold;
   color: black;
   padding: 10px;
@@ -37,14 +37,57 @@ h2{
   padding: 10px;
  
 }
-#marble1{
+#red{
   position: absolute;
  left:20px;
- top:530px;
+ top:330px;
 }
 
-#marble2{
+#yellow{
   position: absolute;
  left:20px;
- top:590px;
+ top:390px;
+}
+#goResults{
+    background-color: black;
+    color: white;
+    width: 150px;
+    position: absolute;
+    padding: 20px;
+    border-radius: 25px;
+    top: 75px;
+    left: 800px;
+}
+.readybutton {
+    background-color: #808080;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 25px;
+}
+.greenbutton {
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 25px;
+}
+.redbutton {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 25px;
 }
