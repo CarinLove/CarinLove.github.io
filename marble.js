@@ -24,7 +24,7 @@ function marbleGo(el,rate) {
 function start(btn) {
     winner = "";
     document.getElementById("winner").innerHTML = "";
-    document.getElementById("btnStart").innerText = "Race";
+    document.getElementById("btnStart").innerText = "Let's Race!!";
     btn.className = "greenbutton";
     var x = Math.floor((Math.random() * 10) + 1);
     var y = Math.floor((Math.random() * 10) + 1);
